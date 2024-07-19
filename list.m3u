@@ -118,6 +118,38 @@ https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD [Alter]
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
 
+############################################################################ Canais 24 horas
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Os Simpsons 24h
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Todo Mundo Odeia O Cris 24h
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Um Maluco no Pedaço 24h
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | 24h",Chaves 24h
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Pokémon 24h
+http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Canais | 24h",PORTA DOS FUNDOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Canais | 24h",Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | 24h",Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Pegadinhas Silvio Santos 24h
+http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Eu a Patroa e as Crianças 24h
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
+
 ############################################################################ CANAIS DE NOTÍCIAS 
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL SD
@@ -231,37 +263,3 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/248
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/247
-
-############################################################################ Canais 24 horas
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Os Simpsons 24h
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Chaves 24h
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Pokémon 24h
-http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
-
-############################################################################ Canais | COMÉDIA
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Todo Mundo Odeia O Cris 24h
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Um Maluco no Pedaço 24h
-http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Canais | COMÉDIA",PORTA DOS FUNDOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Canais | COMÉDIA",Comedy Central Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | COMÉDIA",Comedy Central South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Pegadinhas Silvio Santos 24h
-http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Eu a Patroa e as Crianças 24h
-http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
