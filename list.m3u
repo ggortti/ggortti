@@ -285,7 +285,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/248
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/247
 
-############################################################################ Canais | PREMIERE ALT
+############################################################################ Canais | ALT TEST
 
 #EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
 http://95.141.35.104:8081/looktvs/pfc1/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -298,3 +298,19 @@ http://painel.iptvmove.com:25461/live/danga07/1963/1269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="CANAIS ESPORTE",Premiere Clubes HD
 http://painel.iptvmove.com:25461/live/danga07/1963/1378.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/nR8dr2S.png" pltv-subgroup="NACIONAL",_Premiere  
+http://80.82.65.164:8088/live/premiere1hdbr6/playlist.m3u8?id=27922&wowzasessionid=195660770&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",Discovery Channel
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/682.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/AlAMkeh.png",H History
+http://93.174.93.67:8088/live/tvhistoryaovivo/playlist.m3u8?id=22592&wowzasessionid=3702418867&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Discovery Channel HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Discovery Channel SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?IMDSFULL
+
