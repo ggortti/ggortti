@@ -123,8 +123,14 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Os Simpsons 24h
 http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="http://i.imgur.com/Lvu4YNW.jpg" group-title="MOVE 24HRS",OS SIMPSONS 24HRS
+http://painel.iptvmove.com:25461/live/danga07/1963/2368.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="http://www.seriesonlinehd.org/wp-content/uploads/2015/02/3Z2JLn8L2y8BkAHsEEcvKpeOwbI.jpg" group-title="MOVE 24HRS",Todo Mundo Odeia o Chris
+http://painel.iptvmove.com:25461/live/danga07/1963/3520.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Um Maluco no Pedaço 24h
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
@@ -196,11 +202,26 @@ https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
 https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1334.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1412.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD [Alter]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="DOCUMENTARIOS",Discovery Channel HD [Alter]
+http://painel.iptvmove.com:25461/live/danga07/1963/2747.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
 https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://45.235.0.78/HISTORY-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="VARIEDADES",History Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1240.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="DOCUMENTARIOS",History Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1386.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
@@ -263,3 +284,17 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/248
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/247
+
+############################################################################ Canais | PREMIERE ALT
+
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://95.141.35.104:8081/looktvs/pfc1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://listaiptv.brcs.ml:8080/HD_PFC_CLUBES/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="CANAIS ESPORTE",Premiere Clubes
+http://painel.iptvmove.com:25461/live/danga07/1963/1269.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="CANAIS ESPORTE",Premiere Clubes HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1378.m3u8
