@@ -123,6 +123,9 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | 24h",Os Simpsons 24h
 http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Desenhos 24 Horas",The Simpsons Dublado
+http://95.141.32.213:8081/looktvs/simpsons/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="http://i.imgur.com/Lvu4YNW.jpg" group-title="MOVE 24HRS",OS SIMPSONS 24HRS
 http://painel.iptvmove.com:25461/live/danga07/1963/2368.m3u8
 
