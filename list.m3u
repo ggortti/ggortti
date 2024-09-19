@@ -11,6 +11,9 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/504
 
 ############################################################################ CANAIS ESPORTES
 
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="CANAIS ESPORTE",Premiere Clubes
+http://painel.iptvmove.com:25461/live/danga07/1963/1269.m3u8
+
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542224.m3u8
 
